@@ -18,3 +18,6 @@ te projeto foi desenvolvido para demonstrar os conhecimentos adquiridos no progr
 ***
 
 ## Projeto em ação :fire:
+
+![Captura de tela 2024-07-23 211701](https://github.com/user-attachments/assets/488ccd45-e8fe-4d3b-b09e-ddb56b3143cd)
+![Captura de tela 2024-07-23 211812](https://github.com/user-attachments/assets/69673c76-bf50-4034-ae32-a2269b175ea4)
